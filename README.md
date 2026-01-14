@@ -6,11 +6,8 @@ using Python and PostgreSQL.
 ## Features
 
 - Relational schema design
-
 - Data generation at scale
-
 - Query benchmarking before and after indexing
-
 - Measured performance improvements
 
 ## Tech stack
